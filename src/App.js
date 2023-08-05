@@ -2,9 +2,6 @@ import logo from './logo.svg';
 import './App.css';
 import React from 'react;'
 
-class mycom1 extends React.component{
-
-}
 
 function App() {
   return (
@@ -68,5 +65,4 @@ function App() {
   );
 }
 
-export default App;
-export default mycom1;
+
