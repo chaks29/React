@@ -8,9 +8,9 @@ class mycom1 extends React.component{
 
 function App() {
   return (
-    <div className="App">
-      <body>
-        <h1 id="hello" style="color: yellow;"></h1>
+<div>
+  <body>
+    <h1 id="hello" style="color: yellow;"></h1>
     <div style="color: yellow;"><h1 >Bruce Wayne</h1></div>
     <p class="fam">Bruce Wayne ,a billionaire who owns Wayne industries</p>
     <div><h2>Vigilant Life</h2></div>
@@ -61,11 +61,10 @@ function App() {
     <button onclick="third()"> In Third Year</button>
     <button onclick="fourth()"> In Fourth Year</button>
     </div>
-     
-        
-</body>
-      
-    </div>
+    
+    
+  </body>
+</div>
   );
 }
 
