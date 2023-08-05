@@ -1,4 +1,6 @@
 import './App.css';
+import zyzz from './zyzz.jpg'
+import bat from './batman.jpeg'
 
 
 function App() {
@@ -12,12 +14,13 @@ function App() {
     <div><h3>THE KNIGHT</h3></div>
     <div class="layout">
         <div class="one">
-        <div class="items"> <img src="C:\Users\Aswath Chakravarthi\Desktop\hustle\licensed-image.jpeg" alt="pic" class="image" width="250px" height="150px" ></img></div>
+        <div><img src={bat} alt="pic" class="items" ></img></div>
         <button>BECOME BATMAN </button>
         </div>
-        <div class="items"><img src="C:\Users\Aswath Chakravarthi\Desktop\hustle\artworks-xQMZlzJ75BaU40Oq-M41mlA-t500x500.jpg" alt="pic" class="image" width="250px" height="250px"></img></div>
+        <div><img src={zyzz} alt="pic" class="item"></img></div>
            
     </div>
+        
     
     <div class="num">
         <ul>
@@ -55,8 +58,6 @@ function App() {
     <button onclick="third()"> In Third Year</button>
     <button onclick="fourth()"> In Fourth Year</button>
     </div>
-    
-    
   </body>
 </div>
   );
