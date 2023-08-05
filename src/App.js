@@ -15,10 +15,10 @@ function App() {
     <div><h3>THE KNIGHT</h3></div>
     <div class="layout">
         <div class="one">
-        <div class="items"> <img src="C:\Users\Aswath Chakravarthi\Desktop\hustle\licensed-image.jpeg" alt="pic" class="image" width="250px" height="150px" ></div>
+        <div class="items"> <img src="C:\Users\Aswath Chakravarthi\Desktop\hustle\licensed-image.jpeg" alt="pic" class="image" width="250px" height="150px" ></img></div>
         <button>BECOME BATMAN </button>
         </div>
-        <div class="items"><img src="C:\Users\Aswath Chakravarthi\Desktop\hustle\artworks-xQMZlzJ75BaU40Oq-M41mlA-t500x500.jpg" alt="pic" class="image" width="250px" height="250px"></div>
+        <div class="items"><img src="C:\Users\Aswath Chakravarthi\Desktop\hustle\artworks-xQMZlzJ75BaU40Oq-M41mlA-t500x500.jpg" alt="pic" class="image" width="250px" height="250px"></img></div>
            
     </div>
     
