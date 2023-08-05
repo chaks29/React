@@ -1,13 +1,11 @@
 import './App.css';
-import React from 'react;'
 
 
 function App() {
   return (
 <div>
   <body>
-    <h1 id="hello" style="color: yellow;"></h1>
-    <div style="color: yellow;"><h1 >Bruce Wayne</h1></div>
+    <div><h1 >Bruce Wayne</h1></div>
     <p class="fam">Bruce Wayne ,a billionaire who owns Wayne industries</p>
     <div><h2>Vigilant Life</h2></div>
     <p class="fam"><b>THE BATMAN!!</b></p>
@@ -63,5 +61,6 @@ function App() {
 </div>
   );
 }
+export default App
 
 
